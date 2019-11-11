@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.apeiron.qrpoc",
+    "sha256_cert_fingerprints":
+    ["77:E4:87:D4:5A:D3:7E:49:C5:C6:05:DA:1D:CC:D8:FF:48:47:E0:BB:AA:77:4F:50:87:13:D2:F9:1C:7C:11:0D"]
+  }
+}]
