@@ -1,0 +1,5 @@
+<button (click)="clickMe()">{{scannerEnabled ? 'stop' : 'start'}}</button>
+<zxing-scanner [enable]="scannerEnabled"
+               (scanSuccess)="scanSuccessHandler($event)">
+</zxing-scanner>
+<div>{{user}}</div>

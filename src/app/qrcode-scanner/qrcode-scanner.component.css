@@ -1,8 +1,5 @@
 :host zxing-scanner::ng-deep {
-  max-height: 10vh;
+  max-height: 35vh;
   width: 50vw;
   object-fit: contain;
-}
-.center-block{
-  text-align: center;
 }
